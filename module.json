@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": true,
+    "name": "AnywhereXD",
+    "author": "TerableCoder",
+    "description": "Open NPCs from AnywhereXD",
+    "version": "1.0",
+    "options": {
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": [""]
+}
